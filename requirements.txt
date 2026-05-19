@@ -1,0 +1,12 @@
+torch
+transformers
+datasets
+accelerate
+peft
+trl
+bitsandbytes
+pyyaml
+sqlparse
+streamlit
+pandas
+pytest
