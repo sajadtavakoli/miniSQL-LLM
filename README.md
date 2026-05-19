@@ -1,6 +1,6 @@
 # miniSQL-LLM
 
-A compact LLM portfolio project for natural-language-to-SQL generation.
+A compact LLM for natural-language-to-SQL generation.
 
 This project demonstrates:
 - schema-aware prompt engineering
@@ -67,6 +67,3 @@ python scripts/evaluate.py --predictions results/predictions.jsonl
 streamlit run app/streamlit_app.py
 ```
 
-## CV bullet
-
-Fine-tuned a small open-source LLM for text-to-SQL generation using Transformers, TRL, and LoRA/QLoRA, including dataset preparation, schema-aware prompting, SQL evaluation, and Streamlit deployment.
